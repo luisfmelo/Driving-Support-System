@@ -17,5 +17,8 @@ g++ server.cpp -lpthread -o server
 g++ client.cpp -o client
 ### C++ with serial port connection TCP client
 g++ serial_client.cpp lib_equipaD.o -o client
+### Execute TCP client
 ./client <host> <port>
+### Python TCP Client (change host & port in code)
+python client.py
 
