@@ -100,6 +100,7 @@ int main(int argc, char *argv[])
 		if (rc == 0){
 			buf[0] = '\0';
 			rc = serialport_read_until(fd, buf, '.');
+			printf("%s", buf);
 			if(buf[0] != '\0') 
 				write(listenFd, buf, strlen(buf));
 

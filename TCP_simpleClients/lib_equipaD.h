@@ -9,7 +9,7 @@
 #include <sys/ioctl.h>
 #include <getopt.h>
 
-#define BAUD B9600
+#define BAUD B115200
 #define PORT "/dev/ttyACM0"
 
 /*
