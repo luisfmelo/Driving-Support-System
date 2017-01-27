@@ -1,0 +1,7 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (SEAI_farois.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+c:\users\jp\documents\visual studio 2015\projects\seai_farois_demo\seai_farois\main.cpp(115): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\jp\documents\visual studio 2015\projects\seai_farois_demo\seai_farois\main.cpp(295): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\jp\documents\visual studio 2015\projects\seai_farois_demo\seai_farois\main.cpp(219): warning C4101: 'placeholder': unreferenced local variable
+  SEAI_farois.vcxproj -> C:\Users\jp\Documents\Visual Studio 2015\Projects\SEAI_farois_Demo\x64\Debug\SEAI_farois_demo.exe
+  SEAI_farois.vcxproj -> C:\Users\jp\Documents\Visual Studio 2015\Projects\SEAI_farois_Demo\x64\Debug\SEAI_farois_demo.pdb (Full PDB)

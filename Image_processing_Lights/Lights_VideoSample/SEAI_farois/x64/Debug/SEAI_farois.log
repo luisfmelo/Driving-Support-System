@@ -1,0 +1,6 @@
+﻿  main.cpp
+c:\users\jp\documents\visual studio 2015\projects\seai_farois_hsv_5regioes\seai_farois\main.cpp(115): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\jp\documents\visual studio 2015\projects\seai_farois_hsv_5regioes\seai_farois\main.cpp(295): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\jp\documents\visual studio 2015\projects\seai_farois_hsv_5regioes\seai_farois\main.cpp(219): warning C4101: 'placeholder': unreferenced local variable
+  SEAI_farois.vcxproj -> C:\Users\jp\Documents\Visual Studio 2015\Projects\SEAI_farois_HSV_5regioes\x64\Debug\SEAI_farois.exe
+  SEAI_farois.vcxproj -> C:\Users\jp\Documents\Visual Studio 2015\Projects\SEAI_farois_HSV_5regioes\x64\Debug\SEAI_farois.pdb (Full PDB)
